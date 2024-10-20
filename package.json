@@ -1,6 +1,6 @@
 {
   "name": "cosmic-vibe",
-  "displayName": "cosmic-vibe",
+  "displayName": "Cosmic Vibe",
   "description": "Cosmic Vibe is a minimal VSCode theme focused entirely on blue shades, providing a calm and focused coding experience.",
   "version": "0.0.11",
   "publisher": "ni1in",
@@ -36,6 +36,7 @@
   },
   "keywords": [
     "cosmic vibe",
+    "cosmic vibe theme",
     "blue theme",
     "minimalist theme",
     "vscode theme",
