@@ -28,7 +28,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cosmic Code",
+        "label": "Cosmic Vibe",
         "uiTheme": "vs-dark",
         "path": "./themes/cosmic-vibe-color-theme.json"
       }
