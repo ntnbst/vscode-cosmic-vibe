@@ -1,6 +1,6 @@
 # Cosmic Vibe 🌌 - A Minimalist Blue Theme for VSCode
 
-![Cosmic Vibe](./icon.png)
+![Vibe](./screenshots/banner1.png)
 
 Cosmic Vibe is a carefully crafted VSCode theme that explores various shades of blue to create a clean, focused, and calming coding environment. Inspired by the depths of the cosmos, this theme is designed to provide a unique visual experience, allowing you to stay productive while immersing yourself in a cool, soothing aesthetic.
 
@@ -44,4 +44,6 @@ If you are using VSCode 1.12+ versions you can customize the colors to your liki
 
 ### Custom Font
 
-Font - Maple Mono
+Font - Maple Mono, Agave Mono
+
+![Cosmic Vibe](./icon.png)
