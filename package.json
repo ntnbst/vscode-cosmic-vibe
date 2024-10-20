@@ -5,8 +5,13 @@
   "version": "0.0.1",
   "publisher": "ni1in",
   "icon": "icon.png",
+  "license": "MIT",
   "engines": {
-    "vscode": "^1.94.0"
+    "vscode": "^1.12.0"
+  },
+  "galleryBanner": {
+    "color": "#00081B",
+    "theme": "dark"
   },
   "categories": [
     "Themes"
@@ -28,5 +33,24 @@
         "path": "./themes/cosmic-code-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "cosmic vibe",
+    "blue theme",
+    "minimalist theme",
+    "vscode theme",
+    "blue hues",
+    "calm coding",
+    "focus mode",
+    "low contrast",
+    "dark mode",
+    "developer tools",
+    "syntax highlighting",
+    "productivity",
+    "aesthetic theme",
+    "coding theme",
+    "clean design",
+    "monochrome",
+    "cool tones"
+  ]
 }
